@@ -39,6 +39,16 @@ body{
     display: block;
     margin: 0 auto;
     margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+ul{
+ list-style: none;
 }
 
 .footer-links{
